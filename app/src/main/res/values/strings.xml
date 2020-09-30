@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="github_user">Github User</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="sumrepository">sumrepository</string>
+    <string name="text_followers">followers</string>
+    <string name="text_following">following</string>
+    <string name="image_company">Image Company</string>
+    <string name="pin">pin</string>
+    <string name="company_ilustration">company_ilustration</string>
+    <string name="user_logo">user_logo</string>
+</resources>
